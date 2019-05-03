@@ -1,0 +1,11 @@
+/home/drewh/Projects/Games/Ruby/bin/Debug/netcoreapp2.0/Ruby.deps.json
+/home/drewh/Projects/Games/Ruby/bin/Debug/netcoreapp2.0/Ruby.runtimeconfig.json
+/home/drewh/Projects/Games/Ruby/bin/Debug/netcoreapp2.0/Ruby.runtimeconfig.dev.json
+/home/drewh/Projects/Games/Ruby/bin/Debug/netcoreapp2.0/Ruby.dll
+/home/drewh/Projects/Games/Ruby/bin/Debug/netcoreapp2.0/Ruby.pdb
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.csprojAssemblyReference.cache
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.csproj.CoreCompileInputs.cache
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.AssemblyInfoInputs.cache
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.AssemblyInfo.cs
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.dll
+/home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.pdb
