@@ -9,3 +9,14 @@
 /home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.AssemblyInfo.cs
 /home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.dll
 /home/drewh/Projects/Games/Ruby/obj/Debug/netcoreapp2.0/Ruby.pdb
+C:\Users\drewh\Projects\Games\Ruby\bin\Debug\netcoreapp2.0\Ruby.deps.json
+C:\Users\drewh\Projects\Games\Ruby\bin\Debug\netcoreapp2.0\Ruby.runtimeconfig.json
+C:\Users\drewh\Projects\Games\Ruby\bin\Debug\netcoreapp2.0\Ruby.runtimeconfig.dev.json
+C:\Users\drewh\Projects\Games\Ruby\bin\Debug\netcoreapp2.0\Ruby.dll
+C:\Users\drewh\Projects\Games\Ruby\bin\Debug\netcoreapp2.0\Ruby.pdb
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.csprojAssemblyReference.cache
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.csproj.CoreCompileInputs.cache
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.AssemblyInfoInputs.cache
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.AssemblyInfo.cs
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.dll
+C:\Users\drewh\Projects\Games\Ruby\obj\Debug\netcoreapp2.0\Ruby.pdb

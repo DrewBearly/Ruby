@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/drewh/Projects/Games/Ruby/Ruby.csproj": {}
+    "C:\\Users\\drewh\\Projects\\Games\\Ruby\\Ruby.csproj": {}
   },
   "projects": {
-    "/home/drewh/Projects/Games/Ruby/Ruby.csproj": {
+    "C:\\Users\\drewh\\Projects\\Games\\Ruby\\Ruby.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/drewh/Projects/Games/Ruby/Ruby.csproj",
+        "projectUniqueName": "C:\\Users\\drewh\\Projects\\Games\\Ruby\\Ruby.csproj",
         "projectName": "Ruby",
-        "projectPath": "/home/drewh/Projects/Games/Ruby/Ruby.csproj",
-        "packagesPath": "/home/drewh/.nuget/packages/",
-        "outputPath": "/home/drewh/Projects/Games/Ruby/obj/",
+        "projectPath": "C:\\Users\\drewh\\Projects\\Games\\Ruby\\Ruby.csproj",
+        "packagesPath": "C:\\Users\\drewh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drewh\\Projects\\Games\\Ruby\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/drewh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\drewh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
